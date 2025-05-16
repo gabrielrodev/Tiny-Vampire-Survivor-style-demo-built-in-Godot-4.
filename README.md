@@ -26,23 +26,10 @@ The goal: showcase my ability to read specs, extend code, and ship a playable pr
 
 ## Running Locally
 
-```bash
+
 git clone https://github.com/your-user/your-repo.git
 cd your-repo
 godot .          # press F5 to run
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Licenses
 
