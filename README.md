@@ -24,4 +24,8 @@ The goal: showcase my ability to read specs, extend code, and ship a playable pr
 
 ---
 
-## Running Locally
+## 🔰 Quick Start (Pre-built ZIP)
+
+| Platform | Steps |
+|----------|-------|
+| **Windows** | 1. Click **`vampire-survivor-demo-win.zip`** (or grab it from the [Releases page](../../releases)).<br>2. Extract the folder anywhere.<br>3. Double-click **`vampire-survivor-demo.exe`** → play! |
