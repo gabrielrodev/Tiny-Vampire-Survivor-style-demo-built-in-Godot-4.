@@ -12,7 +12,7 @@ The goal: showcase my ability to read specs, extend code, and ship a playable pr
 | **W A S D / ↑ ← ↓ →** | Move the hero |
 | *(Auto)* | Hero fires projectiles toward the enemy |
 | *(Auto)* | Enemies spawn off-screen and chase you |
-Dead screen
+| health hits 0 | Dead screen shows|
 
 ---
 
