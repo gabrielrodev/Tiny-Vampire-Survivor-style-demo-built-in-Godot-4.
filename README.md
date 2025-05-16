@@ -10,9 +10,8 @@ The goal: showcase my ability to read specs, extend code, and ship a playable pr
 | Key | Action |
 |-----|--------|
 | **W A S D / ↑ ← ↓ →** | Move the hero |
-| *(Auto)* | Hero fires projectiles toward the mouse cursor |
+| *(Auto)* | Hero fires projectiles enemy |
 | *(Auto)* | Enemies spawn off-screen and chase you |
-
 
 ---
 
