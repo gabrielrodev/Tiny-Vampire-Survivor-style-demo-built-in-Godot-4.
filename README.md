@@ -28,4 +28,4 @@ The goal: showcase my ability to read specs, extend code, and ship a playable pr
 
 | Platform | Steps |
 |----------|-------|
-| **Windows** | 1. Click **`vampire-survivor-demo-win.zip`**. Extract the folder anywhere.<br>3. Double-click **`vampire-survivor-demo.exe`** → play! |
+| **Windows** | 1. Click **`vampire-survivor-demo-win.zip`** <br>2. Extract the folder anywhere.<br>3. Double-click **`vampire-survivor-demo.exe`** → play! |
